@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="amountBorrowedLabelText">Amount Borrowed</string>
+    <string name="interestRateLabelText">Interest Rate</string>
+    <string name="loanTermLabelText">Loan Term</string>
+    <string name="sevenRadioText">7 years</string>
+    <string name="fifteenRadioText">15 years</string>
+    <string name="thirtyRadioText">30 years</string>
+    <string name="taxesInsuranceLabelText"> Do you want to include?</string>
+    <string name="taxesInsuranceCheckBoxText">Taxes and Insurance</string>
+    <string name="calculateButtonText">Calculate</string>
+    <string name="monthlyPaymentLabelText">Monthly Payment Due</string>
+</resources>

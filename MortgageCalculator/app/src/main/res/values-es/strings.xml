@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculadora de hipoteca</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="amountBorrowedLabelText">Cantidad prestada</string>
+    <string name="interestRateLabelText">Tasa de interés</string>
+    <string name="loanTermLabelText">Plazo del préstamo</string>
+    <string name="sevenRadioText">7 años</string>
+    <string name="fifteenRadioText">15 años</string>
+    <string name="thirtyRadioText">30 años</string>
+    <string name="taxesInsuranceLabelText"> ¿Quieres incluir ?</string>
+    <string name="taxesInsuranceCheckBoxText">Impuestos y Seguros</string>
+    <string name="calculateButtonText">Calcular</string>
+    <string name="monthlyPaymentLabelText">Pago mensual Debido</string>
+</resources>
